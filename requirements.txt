@@ -6,3 +6,9 @@ numpy
 pandas
 matplotlib
 langchain
+langchain
+langchain-community
+sentence-transformers
+langchain-ollama
+pypdf
+chromadb
